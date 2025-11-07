@@ -1,0 +1,458 @@
+[
+    {
+        "shape": "8095 3837 8108 3826",
+        "owner": "banyough",
+        "date": "2025-10-29",
+        "type": "Commercial",
+        "name": "LusArt",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8075,
+                "z": 3861
+            },
+            "p2": {
+                "x": 8090,
+                "z": 3876
+            }
+        },
+        "owner": "Lusitania",
+        "date": "2025-10-30",
+        "type": "Industrial",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8066,
+                "z": 3874
+            },
+            "p2": {
+                "x": 8074,
+                "z": 3863
+            }
+        },
+        "owner": "banyough",
+        "date": "2025-10-30",
+        "type": "Residential",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8065,
+                "z": 3862
+            },
+            "p2": {
+                "x": 8057,
+                "z": 3873
+            }
+        },
+        "owner": "banyough",
+        "date": "2025-10-30",
+        "type": "Residential",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8056,
+                "z": 3860
+            },
+            "p2": {
+                "x": 8046,
+                "z": 3875
+            }
+        },
+        "owner": "Holographic_",
+        "date": "2025-10-28",
+        "type": "Residential",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8028,
+                "z": 3856
+            },
+            "p2": {
+                "x": 8017,
+                "z": 3844
+            }
+        },
+        "owner": "kitchendroop",
+        "date": "2025-10-30",
+        "type": "Residential",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8027,
+                "z": 3825
+            },
+            "p2": {
+                "x": 8018,
+                "z": 3830
+            }
+        },
+        "owner": "banyough",
+        "address": "Douro Square, Portucale, Lusitania",
+        "date": "2025-10-30",
+        "type": "Residential"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8014,
+                "z": 3843
+            },
+            "p2": {
+                "x": 8026,
+                "z": 3837
+            }
+        },
+        "owner": "Metriximor",
+        "date": "2025-10-30",
+        "type": "Commercial",
+        "address": "Douro Square, Portucale, Lusitania",
+        "name": "ACS Manufacturing Corporation"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8027,
+                "z": 3836
+            },
+            "p2": {
+                "x": 8016,
+                "z": 3831
+            }
+        },
+        "owner": "R4f4well",
+        "type": "Residential",
+        "date": "2025-10-30",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 7952,
+                "z": 3830
+            },
+            "p2": {
+                "x": 7937,
+                "z": 3821
+            }
+        },
+        "owner": "banyough",
+        "date": "2025-10-30",
+        "type": "Industrial"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 7937,
+                "z": 3833
+            },
+            "p2": {
+                "x": 7944,
+                "z": 3842
+            }
+        },
+        "owner": "banyough",
+        "date": "2025-10-30",
+        "type": "Industrial"
+    },
+    {
+        "shape": {
+            "points": [
+                {
+                    "x": 8014,
+                    "z": 3816
+                },
+                {
+                    "x": 8014,
+                    "z": 3842
+                },
+                {
+                    "x": 8017,
+                    "z": 3842
+                },
+                {
+                    "x": 8033,
+                    "z": 3768
+                },
+                {
+                    "x": 8088,
+                    "z": 3768
+                },
+                {
+                    "x": 8103,
+                    "z": 3777
+                },
+                {
+                    "x": 8108,
+                    "z": 3842
+                },
+                {
+                    "x": 8108,
+                    "z": 3816
+                }
+            ]
+        },
+        "type": "Public",
+        "owner": "Lusitania",
+        "address": "Douro Square, Portucale, Lusitania",
+        "date": "2025-10-30",
+        "name": "São Bento Train Station"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 7951,
+                "z": 3935
+            },
+            "p2": {
+                "x": 7938,
+                "z": 3941
+            }
+        },
+        "owner": "AppleRadiation",
+        "type": "Residential",
+        "date": "2025-10-30"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 8075,
+                "z": 3861
+            },
+            "p2": {
+                "x": 8090,
+                "z": 3876
+            }
+        },
+        "owner": "Metriximor",
+        "date": "2025-10-30",
+        "type": "Commercial",
+        "name": "ACS Manufacturing Corporation",
+        "details": "Formerly called 'The Stone Shop'"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 7930,
+                "z": 3944
+            },
+            "p2": {
+                "x": 7937,
+                "z": 3964
+            }
+        },
+        "owner": "Zeldronix",
+        "date": "2025-10-30",
+        "name": "Truidencian Embassy",
+        "type": "Public"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 7938,
+                "z": 3964
+            },
+            "p2": {
+                "x": 7946,
+                "z": 3956
+            }
+        },
+        "owner": "Ankieshu33",
+        "date": "2025-10-30",
+        "type": "Residential"
+    },
+    {
+        "shape": {
+            "p1": {
+                "x": 7947,
+                "z": 3962
+            },
+            "p2": {
+                "x": 7951,
+                "z": 3952
+            }
+        },
+        "owner": "ThomasNoronha",
+        "date": "2025-10-30",
+        "type": "Residential"
+    },
+    {
+        "shape": "7939 3971 7929 3981",
+        "owner": "Passencore",
+        "type": "Residential",
+        "date": "2025-10-30"
+    },
+    {
+        "shape": "7952 3964 7961 3953",
+        "owner": "Metriximor, banyough",
+        "date": "2025-10-30",
+        "type": "Residential",
+        "name": "The Royal Residence"
+    },
+    {
+        "shape": "7961 3952 7952 3943",
+        "owner": "Flameoguide",
+        "date": "2025-10-30",
+        "type": "Residential"
+    },
+    {
+        "shape": "7962 3972 7952 3982",
+        "owner": "Metriximor",
+        "date": "2025-10-30",
+        "type": "Industrial",
+        "name": "Brewery Lab"
+    },
+    {
+        "shape": "7951 3983 7960 3992",
+        "owner": "soomanbasob",
+        "date": "2025-10-31",
+        "name": "Sheepbasob",
+        "type": "Residential"
+    },
+    {
+        "shape": "7962 3995 7951 4001",
+        "owner": "ofthesunrise",
+        "type": "Residential",
+        "date": "2025-10-31"
+    },
+    {
+        "shape": "7951 4002 7963 4008",
+        "owner": "Kloudei",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "7962 4009 7951 4015",
+        "owner": "Lusitania",
+        "type": "Public",
+        "name": "Public Warehouse",
+        "date": "2025-10-31"
+    },
+    {
+        "shape": "7954 4016 7961 4024",
+        "owner": "Lusitania",
+        "type": "Public",
+        "name": "Lusitania Inn",
+        "date": "2025-10-31"
+    },
+    {
+        "shape": "7961 4026 7954 4034",
+        "owner": "banyough",
+        "type": "Residential",
+        "date": "2025-10-31",
+        "details": "Unnocuppied"
+    },
+    {
+        "shape": "7944 4042 7921 4042 7921 4074 7948 4071 7943 4053",
+        "owner": "Lusitania",
+        "type": "Public",
+        "date": "2025-10-31",
+        "name": "Castelo do Queijo"
+    },
+    {
+        "shape": "7889 4042 7883 4042 7883 4044 7881 4044 7880 4056 7880 4062 7885 4062 7886 4047 7889 4047",
+        "owner": "TolypeVelleda",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "7952 4041 7958 4047",
+        "owner": "Itz_Halo_YT",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "7959 4041 7964 4046",
+        "owner": "Itz_Halo_YT",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "7964 4047 7958 4053",
+        "owner": "Itz_Halo_YT",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "7956 4061 7957 4061 7963 4055 7963 4054 7958 4054 7958 4056 7956 4056",
+        "owner": "Itz_Halo_YT",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "7923 3942 7914 3934",
+        "owner": "Kaprediem",
+        "name": "Lambat Embassy",
+        "type": "Public",
+        "date": "2025-10-31"
+    },
+    {
+        "shape": "7911 3926 7900 3934",
+        "owner": "Pinkgal",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "7900 3934 7911 3942",
+        "owner": "Rabadax12",
+        "date": "2025-11-02",
+        "type": "Residential"
+    },
+    {
+        "shape": "7911 3943 7900 3952",
+        "owner": "LucarioGX3",
+        "date": "2025-10-31",
+        "type": "Residential"
+    },
+    {
+        "shape": "8094 4011 16",
+        "owner": "Metriximor, banyough",
+        "date": "2025-11-01",
+        "type": "Public",
+        "name": "metrix and banyough amiibo",
+        "details": "Two statues depicting the royal couple"
+    },
+    {
+        "shape": "8085 3877 8085 3883 8096 3883 8096 3889 8079 3889 8079 3877",
+        "owner": "banyough",
+        "date": "2025-11-04",
+        "type": "Residential",
+        "name": "Peppermint",
+        "details": "Red House behind douro square. Unnoccupied"
+    },
+    {
+        "shape": "8077 3894 8077 3884 8063 3884 8063 3890 8071 3890 8071 3894",
+        "owner": "banyough",
+        "date": "2025-11-04",
+        "type": "Residential",
+        "name": "Pale",
+        "details": "Building next to red house behind douro square. Unnoccupied"
+    },
+    {
+        "shape": "8097 3854 8108 3842",
+        "owner": "Passencore",
+        "date": "2025-11-06",
+        "type": "Commercial",
+        "name": "Passen Corner",
+        "details": "Café/Brewery",
+        "address": "Douro Square, Portucale, Lusitania"
+    },
+    {
+        "shape": "8062 3890 8054 3880",
+        "owner": "banyough",
+        "date": "2025-11-06",
+        "type": "Residential",
+        "details": "Unnocuppied. Behind Douro Square"
+    }
+]

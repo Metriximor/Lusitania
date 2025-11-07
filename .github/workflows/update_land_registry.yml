@@ -1,0 +1,33 @@
+name: Update Land Registry
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "land_registry/**/*.png"
+      - "land_registry/**/*.json"
+
+jobs:
+  generate-settlements:
+    permissions:
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Run settlements generation script
+        env:
+          CIVWIKI_USERNAME: ${{ secrets.CIVWIKI_USERNAME }}
+          CIVWIKI_PASSWORD: ${{ secrets.CIVWIKI_PASSWORD }}
+        run: |
+          cd .github/scripts/land_registry
+          uv sync
+          uv run main.py
