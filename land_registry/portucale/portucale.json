@@ -24,19 +24,12 @@
         "address": "Douro Square, Portucale, Lusitania"
     },
     {
-        "shape": {
-            "p1": {
-                "x": 8066,
-                "z": 3874
-            },
-            "p2": {
-                "x": 8074,
-                "z": 3863
-            }
-        },
-        "owner": "banyough",
+        "shape": "8066 3874 8074 3863",
+        "owner": "404Momo",
         "date": "2025-10-30",
-        "type": "Residential",
+        "type": "Commercial",
+        "name": "Critter Nook",
+        "details": "Deco and Gacha Store",
         "address": "Douro Square, Portucale, Lusitania"
     },
     {
