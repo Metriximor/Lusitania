@@ -447,5 +447,11 @@
         "date": "2025-11-06",
         "type": "Residential",
         "details": "Unnocuppied. Behind Douro Square"
+    },
+    {
+        "shape": "7947 3982 7941 3972",
+        "owner": "404Momo",
+        "date": "2025-11-07",
+        "type": "Residential"
     }
 ]
