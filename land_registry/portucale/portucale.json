@@ -453,5 +453,14 @@
         "owner": "404Momo",
         "date": "2025-11-07",
         "type": "Residential"
+    },
+    {
+        "shape": "7923 3970 7921 3965 7908 3965 7908 3980 7916 3988 7923 3988",
+        "owner": "Passencore",
+        "date": "2025-11-08",
+        "type": "Public",
+        "name": "Passengoda",
+        "address": "Pagoda Street Pavillion, Peninsula, Portucale",
+        "details": "Public Apiary"
     }
 ]
