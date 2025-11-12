@@ -12,20 +12,26 @@ from pytablewriter import MediaWikiTableWriter
 
 class ZoneType(str, Enum):
     RESIDENTIAL = "Residential"
-    COMMERCIAL = "Commercial"
+    MIXED_USE = "Mixed-Use Residential"
     INDUSTRIAL = "Industrial"
-    PUBLIC = "Public"
+    COMMERCIAL = "Commercial"
+    GOVERNMENT = "Government"
+    INSTITUTIONAL = "Institutional"
 
     def color(self) -> str:
         match self:
             case ZoneType.RESIDENTIAL:
-                return "#4CAF50"  # green
-            case ZoneType.COMMERCIAL:
-                return "#42A5F5"  # blue
+                return "#34BF21"
+            case ZoneType.MIXED_USE:
+                return "#00FFD0"
             case ZoneType.INDUSTRIAL:
-                return "#FFCA28"  # yellow
-            case ZoneType.PUBLIC:
-                return "#9E9E9E"
+                return "#FFFF00"
+            case ZoneType.COMMERCIAL:
+                return "#005EFF"
+            case ZoneType.GOVERNMENT:
+                return "#A1089E"
+            case ZoneType.INSTITUTIONAL:
+                return "#FFADFF"
             case _:
                 return "#000000"
 
