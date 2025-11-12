@@ -10,13 +10,16 @@ In the land_registry folder:
 3. Upload a picture export from xaero's minimap (or any other picture, as long as the name format follows xaero's)
 4. Run the script
 
-# Single Residential (34BF21) - dwelling, owned by one individual
-# Multiple Residential (1D7A10) - multiple dwelling units occupied by more than one individual (dorms, condos, apartments). must be registered under the name of a primary owner. if it's possible to show multiple owners for each unit, let me know how
-# Mixed-Used Residential (00FFD0) - mixed commercial and dwelling by one person or more
-# Industrial (FFFF00) - farms, factories, warehouses
-# Commercial (005EFF) - businesses, including offices and shops
-# Government (A1089E) - all property owned by the GOVERNMENT OF LAMBAT, including government buildings, parks, defense infra, etc.
-# Institutional (FFADFF) - embassies of foreign governments and organizations, including LCW member states; parks, museums, libraries not owned by the government 
+## Zoning types
+
+* Residential (34BF21) - dwelling, owned by one individual or by more than one individual (dorms, condos, apartments)
+* Mixed-Used Residential (00FFD0) - mixed commercial and dwelling by one person or more
+* Industrial (FFFF00) - farms, factories, warehouses
+* Commercial (005EFF) - businesses, including offices and shops
+* Government (A1089E) - all property owned by the GOVERNMENT OF LAMBAT, including government buildings, parks, defense infra, etc.
+* Institutional (FFADFF) - embassies of foreign governments and organizations, including LCW member states; parks, museums, libraries not owned by the government
+
+
 ## Land Registry JSON Schema
 
 | Field     | Type                | Required | Description                                                                                                     |
