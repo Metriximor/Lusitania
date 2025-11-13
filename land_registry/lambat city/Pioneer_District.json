@@ -1,0 +1,25 @@
+[
+  {
+      "shape": "3917.375 -1305.75 3940.125 -1292.375",
+      "owner": "kaprediem",
+      "type": "Residential",
+      "date": "01-01-1970",
+      "details": "Occupied"
+  },
+  {
+      "shape": "3903.0625 -1346.9375 3937.875 -1327.9375",
+      "owner": "Government of Lambat",
+      "type": "Government",
+      "date": "2022-06-04",
+      "name": "Pioneer Town Center"
+      "details": "In use"
+  },
+  {
+      "shape": "3917 -1326.25 3936.375 -1313",
+      "owner": "Government of Lambat",
+      "date": "2025-11-01",
+      "type": "Public",
+      "name": "St. Amogus Brewery",
+      "details": "Delapidated"
+  }
+]
