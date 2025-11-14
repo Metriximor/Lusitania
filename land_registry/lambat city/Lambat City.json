@@ -22,4 +22,18 @@
       "name": "St. Amogus Brewery",
       "details": "Delapidated"
   }
+  {
+      "shape": "3878 -1450 3898 -1429",
+      "owner": "Magnileve",
+      "type": "Residential",
+      "date": "2025-11-5",
+      "details": "Occupied"
+  },
+  {
+      "shape": "33903 -1450 3913 -1426",
+      "owner": "Specificlanguage",
+      "type": "Residential",
+      "date": "1970-01-01",
+      "details": "Occupied"
+  }
 ]
