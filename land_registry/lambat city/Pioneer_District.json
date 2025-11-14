@@ -1,21 +1,21 @@
 [
   {
-      "shape": { "p1": {"x":3917,"z":-1305}, "p2": {"x":3940,"z":-1292} },
+      "shape": "3917 -1305 3940 1292",
       "owner": "kaprediem",
       "type": "Residential",
       "date": "01-01-1970",
       "details": "Occupied"
   },
   {
-      "shape": "3903.0625 -1346.9375 3937.875 -1327.9375",
+      "shape": "3903 -1346 3937 -1327",
       "owner": "Government of Lambat",
       "type": "Government",
       "date": "2022-06-04",
-      "name": "Pioneer Town Center"
+      "name": "Pioneer Town Center",
       "details": "In use"
   },
   {
-      "shape": "3917 -1326.25 3936.375 -1313",
+      "shape": "3917 -1326 3936 -1313",
       "owner": "Government of Lambat",
       "date": "2025-11-01",
       "type": "Public",
