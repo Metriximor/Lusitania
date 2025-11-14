@@ -42,5 +42,12 @@
       "type": "Residential",
       "date": "2025-10-28",
       "details": "Occupied"
+  },
+    {
+      "shape": "3914 -1423 3903 -1423 3903 -1395 3932 -1395 3925 -1409 3925 -1423",
+      "owner": "Lambat Rail Transit",
+      "type": "Government",
+      "date": "1970-01-01",
+      "details": "Active"
   }
 ]
