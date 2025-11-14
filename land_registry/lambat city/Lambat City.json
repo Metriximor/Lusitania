@@ -30,10 +30,17 @@
       "details": "Occupied"
   },
   {
-      "shape": "33903 -1450 3913 -1426",
+      "shape": "3903 -1450 3913 -1426",
       "owner": "Specificlanguage",
       "type": "Residential",
       "date": "1970-01-01",
       "details": "Occupied"
-  }
+  },
+  {
+      "shape": "3972, -1343 4001 -1318",
+      "owner": "so_kupac",
+      "type": "Residential",
+      "date": "2025-10-28",
+      "details": "Occupied"
+  },
 ]
