@@ -462,5 +462,13 @@
         "name": "Passengoda",
         "address": "Pagoda Street Pavillion, Peninsula, Portucale",
         "details": "Public Apiary"
+    },
+    {
+        "shape": "8091 3862 8097 3862 8097 3882 8086 3882 8086 3877 8091 3877",
+        "owner": "Kloudei",
+        "date": "2025-11-14",
+        "type": "Residential",
+        "address": "Douro Square, Portucale",
+        "details": "Next to the Warehouse in Douro Square"
     }
 ]
