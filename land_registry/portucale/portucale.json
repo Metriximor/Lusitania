@@ -421,16 +421,14 @@
         "owner": "RoboCookie3_0, xuuxcp",
         "date": "2025-11-04",
         "type": "Residential",
-        "name": "Peppermint",
-        "details": "Red House behind douro square."
+        "details": "Peppermint. Red House behind douro square."
     },
     {
         "shape": "8077 3894 8077 3884 8063 3884 8063 3890 8071 3890 8071 3894",
         "owner": "Rxse_Gxrden",
         "date": "2025-11-23",
         "type": "Residential",
-        "name": "Pastel",
-        "details": "Building next to red house behind douro square. Unnoccupied"
+        "details": "Pastel"
     },
     {
         "shape": "8097 3854 8108 3842",
@@ -445,6 +443,7 @@
         "shape": "8062 3890 8054 3880",
         "owner": "banyough",
         "date": "2025-11-06",
+        "name": "Clay",
         "type": "Residential",
         "details": "Unnocuppied. Behind Douro Square"
     },
@@ -470,5 +469,12 @@
         "type": "Residential",
         "address": "Douro Square, Portucale",
         "details": "Next to the Warehouse in Douro Square"
+    },
+    {
+        "shape": "8045 3876 8053 3888",
+        "owner": "Romanitos",
+        "date": "2025-12-04",
+        "type": "Residential",
+        "address": "Behind Douro Square"
     }
 ]
